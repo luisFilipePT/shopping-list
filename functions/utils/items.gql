@@ -1,0 +1,8 @@
+type Item {
+    text: String!
+    completed: Boolean
+}
+
+type Query {
+    allItems: [Item]!
+}

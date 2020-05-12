@@ -194,11 +194,4 @@ fabric.properties
 .idea/misc.xml
 .idea/modules.xml
 .idea/shopping-list.iml
-functions/
-gatsby-config.js
-netlify.toml
-package-lock.json
-package.json
-prettier.config.js
 public/
-src/
